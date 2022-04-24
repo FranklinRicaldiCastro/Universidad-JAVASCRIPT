@@ -30,4 +30,4 @@ console.log(resultado);
 console.log(typeof miFuncion);
 
 var miFuncionTexto = miFuncion.toString();
-console.log(miFuncionTexto+);
+console.log(miFuncionTexto);
